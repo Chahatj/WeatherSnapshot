@@ -1,0 +1,79 @@
+{
+  "" : {
+    "diagnostics" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherSnapshot-primary.dia",
+    "emit-module-dependencies" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherSnapshot-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherSnapshot-primary-emit-module.dia",
+    "pch" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherSnapshot-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherSnapshot-primary.swiftdeps"
+  },
+  "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/chahatjain/sen/WeatherSnapshot/WeatherSnapshot/ContentView.swift" : {
+    "const-values" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/chahatjain/sen/WeatherSnapshot/WeatherSnapshot/Models/WeatherModels.swift" : {
+    "const-values" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherModels.swiftconstvalues",
+    "dependencies" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherModels.d",
+    "diagnostics" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherModels.dia",
+    "index-unit-output-path" : "/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherModels.o",
+    "llvm-bc" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherModels.bc",
+    "object" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherModels.o",
+    "swift-dependencies" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherModels.swiftdeps",
+    "swiftmodule" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherModels~partial.swiftmodule"
+  },
+  "/Users/chahatjain/sen/WeatherSnapshot/WeatherSnapshot/Services/WeatherCache.swift" : {
+    "const-values" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherCache.swiftconstvalues",
+    "dependencies" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherCache.d",
+    "diagnostics" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherCache.dia",
+    "index-unit-output-path" : "/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherCache.o",
+    "llvm-bc" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherCache.bc",
+    "object" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherCache.o",
+    "swift-dependencies" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherCache.swiftdeps",
+    "swiftmodule" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherCache~partial.swiftmodule"
+  },
+  "/Users/chahatjain/sen/WeatherSnapshot/WeatherSnapshot/Services/WeatherService.swift" : {
+    "const-values" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherService.swiftconstvalues",
+    "dependencies" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherService.d",
+    "diagnostics" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherService.dia",
+    "index-unit-output-path" : "/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherService.o",
+    "llvm-bc" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherService.bc",
+    "object" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherService.o",
+    "swift-dependencies" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherService.swiftdeps",
+    "swiftmodule" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherService~partial.swiftmodule"
+  },
+  "/Users/chahatjain/sen/WeatherSnapshot/WeatherSnapshot/ViewModels/WeatherViewModel.swift" : {
+    "const-values" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherViewModel.swiftconstvalues",
+    "dependencies" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherViewModel.d",
+    "diagnostics" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherViewModel.dia",
+    "index-unit-output-path" : "/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherViewModel.o",
+    "llvm-bc" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherViewModel.bc",
+    "object" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherViewModel.o",
+    "swift-dependencies" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherViewModel.swiftdeps",
+    "swiftmodule" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherViewModel~partial.swiftmodule"
+  },
+  "/Users/chahatjain/sen/WeatherSnapshot/WeatherSnapshot/WeatherSnapshotApp.swift" : {
+    "const-values" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherSnapshotApp.swiftconstvalues",
+    "dependencies" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherSnapshotApp.d",
+    "diagnostics" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherSnapshotApp.dia",
+    "index-unit-output-path" : "/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherSnapshotApp.o",
+    "llvm-bc" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherSnapshotApp.bc",
+    "object" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherSnapshotApp.o",
+    "swift-dependencies" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherSnapshotApp.swiftdeps",
+    "swiftmodule" : "/Users/chahatjain/sen/WeatherSnapshot/.derivedData/Build/Intermediates.noindex/WeatherSnapshot.build/Debug-iphonesimulator/WeatherSnapshot.build/Objects-normal/arm64/WeatherSnapshotApp~partial.swiftmodule"
+  }
+}

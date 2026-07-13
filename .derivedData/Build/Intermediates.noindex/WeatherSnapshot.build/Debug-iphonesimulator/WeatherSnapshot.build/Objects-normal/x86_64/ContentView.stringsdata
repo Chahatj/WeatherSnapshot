@@ -1,0 +1,112 @@
+{
+  "source": "/Users/chahatjain/sen/WeatherSnapshot/WeatherSnapshot/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Weather Snapshot",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 23
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enter a city and tap Go.",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 64
+        }
+      },
+      {
+        "comment": "",
+        "key": "Fetching weather…",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 54
+        }
+      },
+      {
+        "comment": "",
+        "key": "No Weather Data",
+        "location": {
+          "startingColumn": 17,
+          "startingLine": 62
+        }
+      },
+      {
+        "comment": "",
+        "key": "City",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 37
+        }
+      },
+      {
+        "comment": "",
+        "key": "Go",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 43
+        }
+      },
+      {
+        "comment": "",
+        "key": "Refresh",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 104
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@, %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 76
+        }
+      },
+      {
+        "comment": "",
+        "key": "Unit",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 132
+        }
+      },
+      {
+        "comment": "",
+        "key": "Offline — showing cached data",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 115
+        }
+      },
+      {
+        "comment": "",
+        "key": "Last updated %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 117
+        }
+      },
+      {
+        "comment": "",
+        "key": "Unable to Load Weather",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 156
+        }
+      },
+      {
+        "comment": "",
+        "key": "Retry",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 162
+        }
+      }
+    ]
+  },
+  "version": 1
+}
